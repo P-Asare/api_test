@@ -1,4 +1,5 @@
-Flask
-Gunicorn
-werkzeug
-mysql
+ Flask
+ Gunicorn
+ werkzeug
+ mysql-connector-python
+
